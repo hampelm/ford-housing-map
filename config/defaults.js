@@ -47,7 +47,7 @@ define({
     //Specify the tool icon color for the tools on the toolbar and the menu icon.
     // Valid values are white and black.
     "icons": "white",
-    "logo": "images/Pratt New Logo_SQUARE.png",
+    "logo": "images/pratt_logo.png",
     //Set of tools that will be added to the toolbar
     "tools": [
         {"name": "legend", "enabled": true},
