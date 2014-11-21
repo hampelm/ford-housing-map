@@ -77,6 +77,7 @@ define({
     "urlItems": [
         "extent,color"
     ],
+    "tool_details": "blah blah blaj",
     //Replace these with your own bitly key
     "bitlyLogin": "esrimarketing",
     "bitlyKey": "R_52f84981da0e75b23aea2b3b20cbafbc",
